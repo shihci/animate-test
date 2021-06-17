@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.egl_btn div{
+	padding-bottom: 10px;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	border: solid 1px blue;
+	color: blue;
+	background-color: rgba(255,255,255,0.5);
+	transition: all 1s;
+	transform: scale(1,1);
+	
+	}
+.btntest{
+	
+}
+	.btntest:hover{
+	background-color: blue;
+	color: #fff;
+		transform: scale(1.2,1.2);
+	}
